@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\components",
+    "\\src\\redux\\actions",
+    "\\src\\redux\\reducers"
+  ],
+  "SelectedNode": "\\src\\components\\InputSection.js",
+  "PreviewInSolutionExplorer": false
+}
